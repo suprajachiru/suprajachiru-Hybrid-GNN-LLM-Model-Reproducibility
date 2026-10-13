@@ -1,0 +1,7 @@
+method,accuracy_percent_reported,f1_percent_reported,auc_reported,provenance
+Traditional ML,81.6,79.8,0.841,Manuscript Table 7; not independently rerun
+CNN-based Text Model,86.9,85.1,0.882,Manuscript Table 7; not independently rerun
+LSTM-based Model,88.3,86.7,0.894,Manuscript Table 7; not independently rerun
+GNN-Only Model,90.5,89.2,0.921,Manuscript Table 7; not independently rerun
+LLM-Only Model,91.2,90.1,0.936,Manuscript Table 7; not independently rerun
+Proposed GNN + LLM,94.4,93.0,0.971,Manuscript Table 7; not independently rerun

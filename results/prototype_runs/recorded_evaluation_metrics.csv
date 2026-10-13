@@ -1,0 +1,7 @@
+dataset,model,split,accuracy,balanced_accuracy,macro_f1,fake_class_f1,roc_auc,average_precision,tn,fp,fn,tp,status
+YelpZip_dev_10k,Semantic-only MiniLM,test,0.764667,0.60321,0.579754,0.30099,0.678432,0.236463,1071,231,122,76,preliminary recorded result; 10k stratified subset; not manuscript replication
+YelpZip_dev_10k,Adaptive hybrid (user/product graph + MiniLM),test,0.768,0.573011,0.561013,0.259574,0.632636,0.196754,1091,211,137,61,preliminary recorded result; 10k stratified subset; not manuscript replication
+YelpChi,Feature-only logistic regression,test,0.7092,0.6961,0.6057,0.4038,0.7652,0.3712,,,,,previously recorded baseline; confusion matrix not retained in summary
+YelpChi,Neighbor logistic regression,test,0.716,0.703,0.6124,0.412,0.7732,0.3928,,,,,previously recorded baseline; confusion matrix not retained in summary
+YelpChi,Single GCN,test,0.8014,0.5484,0.5527,0.2191,0.5818,0.2215,,,,,previously recorded baseline; confusion matrix not retained in summary
+YelpChi,Three-relation GNN,test,0.8036,0.7037,0.6674,0.4545,0.7834,0.4449,,,,,previously recorded baseline; confusion matrix not retained in summary

@@ -1,0 +1,6 @@
+Source: uploaded manuscript Hybrid_GNN_SN_Round_3(20261013-061128).pdf
+Table 4: dataset counts/splits.
+Table 6: dataset performance metrics.
+Table 7: baseline comparison.
+Table 9: ablation results.
+All values are manuscript-reported, not independently rerun by this repository.

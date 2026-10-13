@@ -1,0 +1,24 @@
+{
+  "note": "Recorded test-set confusion matrices; rows=true class [real=0, fake=1], columns=predicted class [real=0, fake=1].",
+  "semantic_only": [
+    [
+      1071,
+      231
+    ],
+    [
+      122,
+      76
+    ]
+  ],
+  "adaptive_hybrid": [
+    [
+      1091,
+      211
+    ],
+    [
+      137,
+      61
+    ]
+  ],
+  "threshold_selection": "Validation macro-F1 selected threshold 0.5 for both models."
+}

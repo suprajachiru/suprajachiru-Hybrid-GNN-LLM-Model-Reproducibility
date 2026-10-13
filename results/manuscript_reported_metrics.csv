@@ -1,0 +1,5 @@
+﻿dataset,total_instances_manuscript,train_instances_manuscript,validation_instances_manuscript,test_instances_manuscript,accuracy_percent_reported,precision_percent_reported,recall_percent_reported,f1_percent_reported,auc_reported,provenance
+YelpCHI,67395,47177,10109,10109,94.8,93.6,92.9,93.2,0.972,Manuscript Table 4 dataset count and Table 6 metrics; not independently rerun
+FakeNewsNet,23196,16237,3480,3479,93.4,92.1,91.8,91.9,0.964,Manuscript Table 4 dataset count and Table 6 metrics; not independently rerun
+Amazon Reviews’23 (All Beauty),701528,491070,105229,105229,95.1,94.2,93.7,93.9,0.978,Manuscript Table 4 dataset count and Table 6 metrics; not independently rerun
+Average,,,,,94.4,93.3,92.8,93.0,0.971,Manuscript Table 6 reported average; not independently rerun

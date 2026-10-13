@@ -1,0 +1,2 @@
+﻿dataset_or_subset,sample_count,model_description,accuracy_percent,provenance,notes
+"10,000-example run (dataset/model details not fully specified here)",10000,User-reported Python execution,76.66,User-reported value; not independently verified,Kept separate from recorded YelpZip metrics (76.4667% semantic-only; 76.8% adaptive GNN + MiniLM).
