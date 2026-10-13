@@ -1,6 +1,6 @@
 # Hybrid GNN–LLM Model for Fake Review and Misinformation Detection
 
-**Repository:** https://github.com/suprajachiru/Hybrid-GNN-LLM-Reproducibility
+**Repository:**  https://github.com/suprajachiru/suprajachiru-Hybrid-GNN-LLM-Model-Reproducibility
 
 This repository accompanies the manuscript **“Hybrid GNN–LLM Model for Fake Review and Misinformation Detection.”** It contains the available Python/Colab prototype, dataset acquisition guidance, result tables, metric visualizations, and utilities for recording real execution time.
 
